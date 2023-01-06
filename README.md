@@ -7,3 +7,5 @@ https://blogs.blackberry.com/en/2022/10/bianlian-ransomware-encrypts-files-in-th
 https://resources.securityscorecard.com/research/bian-lian-deep-dive#page=1
 
 https://redacted.com/blog/bianlian-ransomware-gang-gives-it-a-go/
+
+https://infosec.exchange/@AlvieriD/109624204822926378
